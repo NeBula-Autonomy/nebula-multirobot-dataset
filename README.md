@@ -8,7 +8,7 @@
 
 # Cite
 
-If you use this dataset in your research, we would kindly ask that you cite the following publication:
+If you use this dataset in your research, we would kindly ask that you cite the following [publication](https://arxiv.org/abs/2205.13135):
 
 ```
 @article{Chang2022LAMP2A,
