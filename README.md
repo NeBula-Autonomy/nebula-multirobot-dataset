@@ -18,5 +18,9 @@ If you use this dataset in your research, we would kindly ask that you cite the 
 }
 ```
 
+# ROS2 support
+
+You can find a repository [here](https://github.com/aserbremen/nebula-multirobot-dataset-ros2) containing all the information to prepare and playback the dataset in ROS2.
+
 # Problems or clarification needed?
 Submit ticket [here](https://github.com/NeBula-Autonomy/nebula-multirobot-dataset/issues)
